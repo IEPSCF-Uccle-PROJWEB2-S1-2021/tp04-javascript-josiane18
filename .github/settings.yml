@@ -1,0 +1,12 @@
+repository:
+    # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+    description: TP04 - JavaScript
+    homepage: http://edu.iepscf-uccle.be/moodle/mod/workshop/view.php?id=15926
+    private: false
+    has_issues: false
+    has_wiki: false
+    has_downloads: true
+    has_projects: false
+
+    default_branch: master
